@@ -1,6 +1,6 @@
 # Objetivos
 
-O objetivo deste teste é verificar os conhecimentos dos candidatos a vaga de [developer Android](https://gist.github.com/eminetto/8842616) da Coderockr
+O objetivo deste teste é verificar os conhecimentos dos candidatos a vaga de [developer iOS](https://gist.github.com/xorna/623f57409837d8998416) da Coderockr
 
 ## Procedimentos e requisitos
 
